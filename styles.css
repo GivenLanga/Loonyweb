@@ -67,7 +67,7 @@ main{
 
 
  button{
-    z-index: 99999
+    z-index: 99999;
     border: 0px;
     background-color: antiquewhite;
     height: 50px;
